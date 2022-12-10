@@ -7,7 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Flutter
-- 🌱 I’m currently learning ReactJS
+- ⭐️ I'm currently working with Android
+- 🌱 I’m currently working and learning ReactJS
 
 <!--
 **ririlya94/ririlya94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
