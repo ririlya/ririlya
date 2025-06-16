@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <a href="https://ko-fi.com/ririlya" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
+<a href='https://ko-fi.com/ririlya' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
+
