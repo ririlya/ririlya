@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  <a href="https://ko-fi.com/ririlya" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
+</p>
