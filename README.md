@@ -1,7 +1,7 @@
 ### Greetings from a fox lovers! 🦊
 
 <a href="https://github.com/Bestfastfire">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ririlya94&count_private=true&show_icons=true&theme=tokyonight" alt="Ririlya Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ririlya&count_private=true&show_icons=true&theme=tokyonight" alt="Ririlya Stats" />
 </a>
 
 Here are some ideas to get you started:
